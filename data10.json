@@ -1,0 +1,8 @@
+[
+  { "id": 1, "fname": "islam", "lname": "mohamed", "city": "asyut", "age": 23},
+  { "id": 2, "fname": "bavely", "lname": "ekramy", "city": "luxor", "age": 22 },
+  { "id": 3, "fname": "aya", "lname": "ahmed", "city": "cairo", "age": 25 },
+  { "id": 5, "fname": "sara", "lname": "ahmed", "city": "suez", "age": 21 },
+  { "id": 6, "fname": "hossam", "lname": "ahmed", "city": "gizeh", "age": 26 },
+  { "id": 7, "fname": "tasneem", "lname": "ail", "city": "alexandria", "age": 27 }
+]
